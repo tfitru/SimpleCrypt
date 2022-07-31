@@ -6,7 +6,11 @@
 
     <groupId>com.zipcodewilmington</groupId>
     <artifactId>SimpleCrypt</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>SimpleCryptClass</module>
+    </modules>
 
 
 </project>
